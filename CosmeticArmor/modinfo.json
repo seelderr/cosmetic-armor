@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "cosmeticarmor",
+    "name": "Cosmetic Armor",
+    "authors": [
+        "seelder"
+    ],
+    "description": "Adds a button in the character menu to hide or show armor.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
